@@ -1,4 +1,5 @@
 # Simple port listener.
+# written by haeoro
 
 import socket
 import random
