@@ -48,7 +48,7 @@ def simple_mode():
 def main():
     time.sleep(0.3)
     os.system("cls")
-    print("## Simple port opener ## - datarec on github")
+    print("## Simple port opener ## - haeoro on github")
 
     simple_advanced = input("""
 1) Simple Mode (Preset with random port and local host)
